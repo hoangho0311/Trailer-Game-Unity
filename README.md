@@ -2,9 +2,11 @@
 Trailer Game Made By Unity
 
 Introduction
+
 This project is developed using Unity to create an engaging game trailer. The trailer showcases the visuals of the game to generate interest and excitement for potential players.
 
 Features
+
 Cinematic Camera Work: Dynamic camera angles and movements to enhance the visual storytelling.
 Visual Effects: Special effects like particle systems, lighting, and shaders to create a dramatic atmosphere.
 Audio Integration: Synchronized background music and sound effects to complement the visuals and elevate the emotional impact.
